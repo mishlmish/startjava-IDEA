@@ -13,6 +13,7 @@ public class ArrayMain {
 //        System.out.println(numbers);
         for (int i = 0; i < numbers1.length; i++) {
             System.out.println(numbers1[i] + " ");
+            System.out.println("Проверка Гита в ИДИА");
         }
     }
 }
